@@ -14,8 +14,8 @@ Linked in the GitHub repository
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/JayDe-FR/testimonials-grid-section-fe-mentor.git)
+- Live Site URL: [GitHub](https://jayde-fr.github.io/testimonials-grid-section-fe-mentor/)
 
 ## My process
 
